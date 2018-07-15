@@ -2,7 +2,7 @@
 
 ------
 
-### 资料分类 [Todo 列表]
+### 资料分类
 
 - [x] [Java](https://www.test.com)
 - [x] [React Native](https://www.test.com)
